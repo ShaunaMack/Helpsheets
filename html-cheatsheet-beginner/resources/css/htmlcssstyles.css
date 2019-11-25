@@ -1,0 +1,31 @@
+h1 {
+  color: DeepPink;
+  text-align: center;
+}
+h2 {
+  color: White;
+  text-align: center;
+  opacity: 0.75;
+  background-image: url("resources/pattern.jpeg")
+}
+body {
+  font-family: sans-serif;
+  color: DarkSlateGray;
+}
+.hint {
+  font-size: 11px;
+}
+.dot-points {
+  font-size: 12px;
+}
+.code {
+  font-family: Lucida Console, Courier, monospace;
+  background-color: Thistle;
+  opacity: 0.75;
+}
+footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+
+}
