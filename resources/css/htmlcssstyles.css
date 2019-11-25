@@ -1,16 +1,19 @@
 h1 {
-  color: DeepPink;
+  color: #873D48;
   text-align: center;
 }
 h2 {
-  color: White;
+  color: white;
   text-align: center;
   opacity: 0.75;
-  background-image: url("resources/pattern.jpeg")
+  background-image: url("/resources/pattern.jpeg")
 }
 body {
   font-family: sans-serif;
-  color: DarkSlateGray;
+  color: #664C43;
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both;
 }
 .hint {
   font-size: 11px;
@@ -20,12 +23,13 @@ body {
 }
 .code {
   font-family: Lucida Console, Courier, monospace;
-  background-color: Thistle;
+  background-color: #E3D3E4;
   opacity: 0.75;
 }
 footer {
   position: fixed;
   text-align: center;
   bottom: 0;
+  background-color: #B5CA8D;
 
 }
