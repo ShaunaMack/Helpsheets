@@ -25,6 +25,7 @@ body {
   font-family: Lucida Console, Courier, monospace;
   background-color: #E3D3E4;
   opacity: 0.75;
+  color: darkslategray;
 }
 footer {
   position: fixed;
